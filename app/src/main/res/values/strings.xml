@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ThumbAnalysis</string>
+
+    <string name="file_name">File Name</string>
+    <string name="sample">Sample</string>
+    <string name="zip_path">Zip path</string>
+    <string name="thumb">Thumb</string>
+    <string name="template_path">Template path</string>
+    <string name="analyze">Analyze</string>
+    <string name="pick_ssms_file">Pick SSMS File</string>
+    <string name="semis_code">Semis Code</string>
+    <string name="please_insert_semis">Please insert SEMIS</string>
+    <string name="done">Done</string>
+    <string name="score">Score</string>
+</resources>
